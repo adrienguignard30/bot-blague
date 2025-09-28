@@ -1,13 +1,4 @@
 {
   "name": "bot-blague",
-  "version": "1.0.0",
-  "description": "Bot WhatsApp pour des blagues",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vercel dev",
-    "build": "echo 'Build complete'"
-  },
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "version": "1.0.0"
 }
